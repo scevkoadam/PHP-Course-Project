@@ -1,0 +1,36 @@
+----
+ID: 6
+Title: Neki novi naslov
+Datum: 31. Mart 2021.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 5
+Title: Naslov poslednje vesti 5
+Datum: 18. jul 2016.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 4
+Title: Naslov poslednje vesti 4
+Datum: 18. jul 2022.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 3
+Title: Naslov poslednje vesti 3
+Datum: 18. jul 1982.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 2
+Title: Naslov poslednje vesti 2
+Datum: 18. jul 2016.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 1
+Title: Naslov poslednje vesti 1
+Datum: 18. jul 2016.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
