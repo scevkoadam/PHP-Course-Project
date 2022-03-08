@@ -2,4 +2,4 @@
 + Krojačeva škola
 + Homework
 + PHP Course
-Gallery section added
++ Gallery section added
